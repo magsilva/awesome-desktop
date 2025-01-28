@@ -1,4 +1,4 @@
-# Awesome Desktop
+# Awesome Linux Desktop
 ## Multimedia
 - [FLAC](https://xiph.org/flac/): Lossless audio codec.
 - [Opus](https://opus-codec.org/): Lossy audio codec.
