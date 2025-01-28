@@ -5,4 +5,5 @@
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp): Downloader of videos and audio from YouTube.
 - [Whipper](https://github.com/whipper-team/whipper): Accurate extraction of music from CD.
 ## System
+- [Memtest](https://memtest.org/)): Memory tester (well, not actually Linux, but, hey, you do not want to run a computer with defective memory!).
 - [Corectrl](https://gitlab.com/corectrl/corectrl): Configure your hardware (CPU and GPU) operation profile depending on currently running applications.
